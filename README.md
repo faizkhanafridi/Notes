@@ -19,6 +19,7 @@ The purpose of this repository is **personal learning, practice, and revision**,
 - Laravel
 - SQL
 - MySQL
+- Mongodb
 
 ---
 
