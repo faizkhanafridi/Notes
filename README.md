@@ -1,6 +1,6 @@
 # Web Development Notes (Mentor Shared) 
 
-This repository contains **web development notes, examples, and reference material** that were **shared with me by my mentor "Ghazali Warsi"** during my learning journey.
+This repository contains **web development notes, examples, and reference material** that were **shared with me by my mentors during my learning journey.
 
 The purpose of this repository is **personal learning, practice, and revision**, and not to claim authorship of the content.
 
